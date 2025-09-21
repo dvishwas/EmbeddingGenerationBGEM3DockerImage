@@ -1,0 +1,6 @@
+numpy<2.0
+transformers==4.35.2
+sentence-transformers==2.2.2
+FlagEmbedding==1.2.5
+flask==3.0.0
+gunicorn==21.2.0
