@@ -27,6 +27,14 @@ GET /health
 ```
 Returns service status and model loading state.
 
+Response:
+```json
+{
+  "status": "healthy",
+  "model_loaded": true
+}
+```
+
 ### Single/Multiple Text Embeddings
 ```
 POST /embed
